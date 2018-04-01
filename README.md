@@ -17,4 +17,6 @@
 ![](https://github.com/kirillovadk/hw6/blob/master/5.2.jpg)
 Для анализа я выбрала два слова с похожими значениями -- roam и wander (странствовать). Из приведенной выше таблицы мы можем видеть, что оба слова могут употребляться с такими словами как countryside или street. Но, например, словосочетание "бродить по пустыне" мы можем пеевести только используя слово "roam". В то же время слово бродяга переводится на английский как "wandering tramp" и никак иначе.
 ### Задание 3
-
+![](https://github.com/kirillovadk/hw6/blob/master/6.1.jpg)
+![](https://github.com/kirillovadk/hw6/blob/master/6.2.jpg)
+Данные в Google Ngrams и BNC
