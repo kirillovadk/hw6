@@ -19,4 +19,4 @@
 ### Задание 3
 ![](https://github.com/kirillovadk/hw6/blob/master/6.1.jpg)
 ![](https://github.com/kirillovadk/hw6/blob/master/6.2.jpg)
-Данные в Google Ngrams и BNC
+Данные в Google Ngrams и BNC совпадают -- мы можем видеть рост частотности слова. Однако, согласно Google Ngrams рост использования данного слова продолжается, кода согласно BNC он остаётся на одном и том же уровне уже несколько лет. 
